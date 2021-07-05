@@ -1,0 +1,24 @@
+
+###################
+#Bill of materials 
+###################
+
+IR opto sensor : 0.58$ (https://fr.aliexpress.com/item/32850602744.html?spm=a2g0o.productlist.0.0.1e87321dwf0sa0)
+magnetometer HMC5883L : 1.2$ (https://fr.aliexpress.com/item/32787753257.html?spm=a2g0s.9042311.0.0.66f36c37ynHEjJ)
+Optional : Rain sensor module : 0.35$ https://fr.aliexpress.com/item/1005001944025255.html?spm=a2g0s.9042311.0.0.350f6c37agik5L
+
+
+##########
+#Screws : 
+##########
+
+2 Axles : 
+2x M5x20 hex screw
+4x M5 hex bolt
+2x M5 nylstop hex bolt
+4x M5 ball bearing (ID 5mm), you can customize in openscad. I used MR115RS 5x11x4mm
+
+Van weight compensation and magnetic field : 
+1x M5x20 hex screw
+5x M5 hex bolt
+1x neodym magnet
