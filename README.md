@@ -13,17 +13,9 @@ The direction vane use an 1.2$ HMC5883L Magnetometer and a magnet. The simplest 
 
 I've made a [precise calibration script](https://github.com/nliaudat/magnetometer_calibration) if needed to correct hard & soft iron effects with ellipsoid fitting.
 
-
-<img align="left" width="396" height="297" src="https://github.com/nliaudat/weatherstation/blob/main/imgs/direction_vane_schematics.png">
-
-
-
-
-
-
-
+<img align="center" width="396" height="297" src="https://github.com/nliaudat/weatherstation/blob/main/imgs/direction_vane_schematics.png">
 
 
 
 ## Anemometer
-<img align="left" width="396" height="297" src="https://github.com/nliaudat/weatherstation/blob/main/imgs/anemometer_schematics.png">
+<img align="center" width="396" height="297" src="https://github.com/nliaudat/weatherstation/blob/main/imgs/anemometer_schematics.png">
