@@ -10,7 +10,7 @@ It runs with an ESP board and [Esphome software](https://esphome.io/)
 
 ## Direction Vane
 
-The direction vane use an 1.2$ HMC5883L Magnetometer and a magnet. The simplest is the best !
+The direction vane use an 1.2$ HMC5883L or QMC5883L Magnetometer and a magnet. The simplest is the best !
 
 I've made a [precise calibration script](https://github.com/nliaudat/magnetometer_calibration) if needed to correct hard & soft iron effects with ellipsoid fitting.
 
