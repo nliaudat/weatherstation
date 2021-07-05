@@ -15,5 +15,14 @@ I've made a [precise calibration script](https://github.com/nliaudat/magnetomete
 
 <img align="left" width="396" height="297" src="https://github.com/nliaudat/weatherstation/blob/main/imgs/direction_vane_schematics.png">
 
+
+
+
+
+
+
+
+
+
 ## Anemometer
 <img align="left" width="396" height="297" src="https://github.com/nliaudat/weatherstation/blob/main/imgs/anemometer_schematics.png">
