@@ -21,7 +21,8 @@ I've made a [precise calibration script](https://github.com/nliaudat/magnetomete
 ## Anemometer
 
 The anemometer use a rotary encoder with an 0.6$ IR optocoupler. 
-The openscad script output all needed informations to calculate the wind speed exept the correction/friction factor which depends on your ball bearing.
+
+The openscad script output all needed informations to calculate the wind speed except the correction/friction factor which depends on your ball bearing. (mine is 5 and it's a good starting point for futher calibration)
 
 ```
 [Wind speed in m/s] = 2PI * [anemometer mid cup to axle lenght in m]  * [revolution per seconds]  * [unknown correction factor]
