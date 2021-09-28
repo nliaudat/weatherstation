@@ -40,4 +40,5 @@ You must paste that value in "pulse_meter" section of esphome.yaml
 
 <img align="center" width="396" height="297" src="https://github.com/nliaudat/weatherstation/blob/main/imgs/anemometer_schematics.png">
 
-
+# Magnetometer calibration
+look at [magnetometer calibration] (https://github.com/nliaudat/magnetometer_calibration)
